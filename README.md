@@ -35,4 +35,4 @@ The results of this analysis can be found in the results directory. This directo
 #Conclusion
 This project demonstrates how Python and the Pandas library can be used to analyze unemployment data and identify trends and patterns. The scripts and notebooks provided can be adapted for use with other datasets and can serve as a starting point for further analysis.
 
-If you have any questions or feedback on this project, please feel free to reach out to me at [akshatyadav.2659@gmail.com]
+If you have any questions or feedback on this project, please feel free to reach out to me at [akshatyadav.2659@gmail.com
